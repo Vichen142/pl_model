@@ -30,4 +30,4 @@ An end-to-end machine learning web application that forecasts English Premier Le
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/Vichen142/pl_model.git](https://github.com/Vichen142/pl_model.git)
-   cd premier-league-season-predictor
+   cd pl_model
