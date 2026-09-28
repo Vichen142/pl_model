@@ -1,0 +1,319 @@
+{
+  "actual_table": [
+    {
+      "team": "Arsenal",
+      "p": 1,
+      "w": 1,
+      "d": 0,
+      "l": 0,
+      "gf": 3,
+      "ga": 0,
+      "gd": 3,
+      "pts": 3
+    },
+    {
+      "team": "Brentford",
+      "p": 1,
+      "w": 1,
+      "d": 0,
+      "l": 0,
+      "gf": 3,
+      "ga": 0,
+      "gd": 3,
+      "pts": 3
+    },
+    {
+      "team": "Everton",
+      "p": 1,
+      "w": 1,
+      "d": 0,
+      "l": 0,
+      "gf": 2,
+      "ga": 0,
+      "gd": 2,
+      "pts": 3
+    },
+    {
+      "team": "Hull City",
+      "p": 1,
+      "w": 1,
+      "d": 0,
+      "l": 0,
+      "gf": 2,
+      "ga": 0,
+      "gd": 2,
+      "pts": 3
+    },
+    {
+      "team": "Ipswich",
+      "p": 1,
+      "w": 1,
+      "d": 0,
+      "l": 0,
+      "gf": 2,
+      "ga": 1,
+      "gd": 1,
+      "pts": 3
+    },
+    {
+      "team": "Leeds",
+      "p": 1,
+      "w": 1,
+      "d": 0,
+      "l": 0,
+      "gf": 1,
+      "ga": 0,
+      "gd": 1,
+      "pts": 3
+    },
+    {
+      "team": "Aston Villa",
+      "p": 0,
+      "w": 0,
+      "d": 0,
+      "l": 0,
+      "gf": 0,
+      "ga": 0,
+      "gd": 0,
+      "pts": 0
+    },
+    {
+      "team": "Bournemouth",
+      "p": 0,
+      "w": 0,
+      "d": 0,
+      "l": 0,
+      "gf": 0,
+      "ga": 0,
+      "gd": 0,
+      "pts": 0
+    },
+    {
+      "team": "Brighton",
+      "p": 0,
+      "w": 0,
+      "d": 0,
+      "l": 0,
+      "gf": 0,
+      "ga": 0,
+      "gd": 0,
+      "pts": 0
+    },
+    {
+      "team": "Chelsea",
+      "p": 0,
+      "w": 0,
+      "d": 0,
+      "l": 0,
+      "gf": 0,
+      "ga": 0,
+      "gd": 0,
+      "pts": 0
+    },
+    {
+      "team": "Fulham",
+      "p": 0,
+      "w": 0,
+      "d": 0,
+      "l": 0,
+      "gf": 0,
+      "ga": 0,
+      "gd": 0,
+      "pts": 0
+    },
+    {
+      "team": "Liverpool",
+      "p": 0,
+      "w": 0,
+      "d": 0,
+      "l": 0,
+      "gf": 0,
+      "ga": 0,
+      "gd": 0,
+      "pts": 0
+    },
+    {
+      "team": "Man City",
+      "p": 0,
+      "w": 0,
+      "d": 0,
+      "l": 0,
+      "gf": 0,
+      "ga": 0,
+      "gd": 0,
+      "pts": 0
+    },
+    {
+      "team": "Newcastle",
+      "p": 0,
+      "w": 0,
+      "d": 0,
+      "l": 0,
+      "gf": 0,
+      "ga": 0,
+      "gd": 0,
+      "pts": 0
+    },
+    {
+      "team": "Sunderland",
+      "p": 1,
+      "w": 0,
+      "d": 0,
+      "l": 1,
+      "gf": 1,
+      "ga": 2,
+      "gd": -1,
+      "pts": 0
+    },
+    {
+      "team": "Nott'm Forest",
+      "p": 1,
+      "w": 0,
+      "d": 0,
+      "l": 1,
+      "gf": 0,
+      "ga": 1,
+      "gd": -1,
+      "pts": 0
+    },
+    {
+      "team": "Crystal Palace",
+      "p": 1,
+      "w": 0,
+      "d": 0,
+      "l": 1,
+      "gf": 0,
+      "ga": 2,
+      "gd": -2,
+      "pts": 0
+    },
+    {
+      "team": "Man United",
+      "p": 1,
+      "w": 0,
+      "d": 0,
+      "l": 1,
+      "gf": 0,
+      "ga": 2,
+      "gd": -2,
+      "pts": 0
+    },
+    {
+      "team": "Coventry",
+      "p": 1,
+      "w": 0,
+      "d": 0,
+      "l": 1,
+      "gf": 0,
+      "ga": 3,
+      "gd": -3,
+      "pts": 0
+    },
+    {
+      "team": "Tottenham",
+      "p": 1,
+      "w": 0,
+      "d": 0,
+      "l": 1,
+      "gf": 0,
+      "ga": 3,
+      "gd": -3,
+      "pts": 0
+    }
+  ],
+  "completed_fixtures": [
+    [
+      "Arsenal",
+      "Coventry"
+    ],
+    [
+      "Hull City",
+      "Man United"
+    ],
+    [
+      "Everton",
+      "Crystal Palace"
+    ],
+    [
+      "Ipswich",
+      "Sunderland"
+    ],
+    [
+      "Nott'm Forest",
+      "Leeds"
+    ],
+    [
+      "Brentford",
+      "Tottenham"
+    ]
+  ],
+  "match_log": [
+    {
+      "id": 5,
+      "gw": "GW 1",
+      "home": "Brentford",
+      "away": "Tottenham",
+      "home_score": 3,
+      "away_score": 0,
+      "score": "Brentford 3 - 0 Tottenham",
+      "badge": "Home Win",
+      "color": "green"
+    },
+    {
+      "id": 4,
+      "gw": "GW 1",
+      "home": "Nott'm Forest",
+      "away": "Leeds",
+      "home_score": 0,
+      "away_score": 1,
+      "score": "Nott'm Forest 0 - 1 Leeds",
+      "badge": "Away Win",
+      "color": "purple"
+    },
+    {
+      "id": 3,
+      "gw": "GW 1",
+      "home": "Ipswich",
+      "away": "Sunderland",
+      "home_score": 2,
+      "away_score": 1,
+      "score": "Ipswich 2 - 1 Sunderland",
+      "badge": "Home Win",
+      "color": "green"
+    },
+    {
+      "id": 2,
+      "gw": "GW 1",
+      "home": "Everton",
+      "away": "Crystal Palace",
+      "home_score": 2,
+      "away_score": 0,
+      "score": "Everton 2 - 0 Crystal Palace",
+      "badge": "Home Win",
+      "color": "green"
+    },
+    {
+      "id": 1,
+      "gw": "GW 1",
+      "home": "Hull City",
+      "away": "Man United",
+      "home_score": 2,
+      "away_score": 0,
+      "score": "Hull City 2 - 0 Man United",
+      "badge": "Home Win",
+      "color": "green"
+    },
+    {
+      "id": 0,
+      "gw": "GW 1",
+      "home": "Arsenal",
+      "away": "Coventry",
+      "home_score": 3,
+      "away_score": 0,
+      "score": "Arsenal 3 - 0 Coventry",
+      "badge": "Home Win",
+      "color": "green"
+    }
+  ],
+  "selected_gw": "GW 1"
+}
